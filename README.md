@@ -61,7 +61,7 @@ adaptive-uart-ml-power/
 | Python 3.x | Training the ML model |
 | Scikit-learn | Decision Tree classifier |
 | NumPy / pandas | Dataset handling |
-| ModelSim | Functional simulation |
+| Xilinx Vivado | Functional simulation |
 
 ---
 
